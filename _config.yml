@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 胡伟煌 
+title: 纪英杰 
 subtitle: 个人博客
-author: 胡伟煌
+author: 纪英杰
 language:
 timezone:
 
@@ -36,7 +36,7 @@ signature-img: img/signature/BeanTechSign-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    huweihuang
+github_username:    YXJ248
 # twitter_username:   Demonbane_x
 # facebook_username:  xxx
 # linkedin_username:  xxx
@@ -85,22 +85,6 @@ show_count: true
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
-
-## Friends
-friends: [
-    {
-        title: "CSDN Blog 胡伟煌",
-        href: "http://blog.csdn.net/huwh_"
-    },
-    {
-        title: "DockOne 胡伟煌",
-        href: "http://dockone.io/people/胡伟煌"
-    },
-    {
-        title: "阿里云栖社区 胡伟煌",
-        href: "https://yq.aliyun.com/u/huweihuang"
-    }
-]
 
 
 #Custom Setting End
@@ -231,6 +215,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
+  repository: https://github.com/YXJ248/YXJ248.github.io
   branch: gh-pages
   message: Update CNAME
